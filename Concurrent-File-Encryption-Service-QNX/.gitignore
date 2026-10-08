@@ -1,0 +1,26 @@
+# Build outputs
+*.o
+*.a
+*.so
+*.elf
+*.map
+*.bin
+
+# QNX generated files
+.qnx/
+*.qnx
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated test data
+*.enc
+*.key
